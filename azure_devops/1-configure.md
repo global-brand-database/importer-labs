@@ -1,3 +1,22 @@
+GitHub Max
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+github m
+
 # Configure credentials for GitHub Actions Importer
 
 In this lab, you will use the `configure` CLI command to set the required credentials and information for GitHub Actions Importer to use when working with Azure DevOps and GitHub.
